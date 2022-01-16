@@ -1,0 +1,16 @@
+li:hover{
+background-color: pink;
+}
+
+.buttonlar:hover{
+    background-color: red;
+
+}
+
+#btn:hover,#del:hover{
+background-color:cornflowerblue;
+}
+
+#inp{
+    margin-left: 20px;
+}
